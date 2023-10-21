@@ -15,4 +15,4 @@ pip install tiktoken
 - Put any data you wish to give to the AI inside the data.txt file.
 
 ### Step 4: Run the program with your prompt
-- Example: ``` ```
+- Example: ```python chat.py "When is my next meeting"```
