@@ -7,3 +7,6 @@ pip install openai
 pip install chromadb
 pip install tiktoken
 ```
+
+### Step 2: Import your openai API key
+- Enter your key in the APIKEY variable in the Key.py file.
